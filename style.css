@@ -106,7 +106,7 @@ body {
 }
 
 .body {
-    background-image: url(/images/ajay1.jpg);
+    background-image: url(/ajay1.jpg);
     background-position:75% 25%, center  ;
     background-size: cover;
 }
